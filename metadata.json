@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Attendance & Salary",
+  "description": "Small business attendance and salary management application with owner and employee views.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
